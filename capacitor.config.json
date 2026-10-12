@@ -1,0 +1,6 @@
+{
+  "appId": "com.fpsprojectx.neonrange",
+  "appName": "FPS Project X",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
